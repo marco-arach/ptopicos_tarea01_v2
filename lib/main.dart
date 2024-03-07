@@ -32,7 +32,7 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   void initState() {
     _translation = Translation(
-      apiKey: 'AIzaSyBicvXQazxTfWQvlsHG_DQduaNIXWRmcz0',
+      apiKey: 'API_KEY',
     );
     super.initState();
   }
